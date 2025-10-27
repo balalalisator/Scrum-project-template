@@ -2,7 +2,7 @@
 name: User story
 about: Describe a feature or functionality
 title: As .. I want .. so ...
-labels: Will become user story
+labels: ''
 assignees: ''
 
 ---
