@@ -73,18 +73,18 @@ Het doel is om een **praktische webapplicatie** te ontwikkelen waarin gebruikers
 
 ### Sprints
 - Duur per sprint: **1 week**
-- Startdatum Sprint 1: `<DD MMM YYYY>`
-- Totale duur traject (optioneel): `<Aantal weken>`
+- Startdatum Sprint 1: `10 11 2025`
+- Totale duur traject (optioneel): `5 weken`
 
 ### Meetings (fysiek – Lokaal Mars, Bit Academy)
 
 | Type                                      | Datum         | Tijd   | Locatie                   |
 | ----------------------------------------- | ------------- | ------ | ------------------------- |
-| Sprint 1 **planning**                      | `<dd mmm yyyy>` | `10:00` | Lokaal Mars               |
-| Sprint 2 **review + planning + retro**     | `<dd mmm yyyy>` | `10:00` | Lokaal Mars               |
-| Sprint 3 **planning + halfway presentatie**| `<dd mmm yyyy>` | `10:00` | Lokaal Mars               |
-| Sprint 4 **review + planning + retro**     | `<dd mmm yyyy>` | `10:00` | Lokaal Mars               |
-| Sprint 5 **review + eindpresentatie**      | `<dd mmm yyyy>` | `10:00` | Lokaal Mars               |
+| Sprint 1 **planning**                      | `10 11 2025` | `10:00` | Lokaal Mars               |
+| Sprint 2 **review + planning + retro**     | `17 11 2025` | `10:00` | Lokaal Mars               |
+| Sprint 3 **planning + halfway presentatie**| `24 11 2025` | `10:00` | Lokaal Mars               |
+| Sprint 4 **review + planning + retro**     | `1 12 2025` | `10:00` | Lokaal Mars               |
+| Sprint 5 **review + eindpresentatie**      | `8 12 2025` | `10:00` | Lokaal Mars               |
 
 > Pas data aan op basis van jouw kalender. Alle meetings zijn fysiek, tenzij anders afgesproken met de coach/klant.
 
@@ -96,9 +96,9 @@ Het doel is om een **praktische webapplicatie** te ontwikkelen waarin gebruikers
 ### Teaminzet & beschikbaarheid
 - **Minimale aanwezigheid:** **di, wo, do** voor alle teamleden
 - Overzicht per persoon:
-  - `<Naam 1>`: `<dagen/tijden>`
-  - `<Naam 2>`: `<dagen/tijden>`
-  - `<Naam 3>`: `<dagen/tijden>`
+  - `Halil Mutlu`: `<di, wo, do ,vr /8:30 - 15:00>`
+  - `Bilal Abdullah`: `<di, wo, do ,vr /8:30 - 15:00>`
+  - `Jelmer Land`: `<di, wo, do ,vr /8:30 - 15:00>`
 
 **Afwezigheid & afspraken**
 - [ ] Ziek/afwezig vóór **08:30** melden via **Mattermost**
@@ -106,9 +106,9 @@ Het doel is om een **praktische webapplicatie** te ontwikkelen waarin gebruikers
 - [ ] Bij langdurige afwezigheid: taken herverdelen (Scrum Master)
 
 **Communicatiekanalen**
-- **Team:** Mattermost (`<kanaalnaam>`)
+- **Team:** Mattermost (`<Halil Mutlu, Jelmer Land, Rob Demmenie>`)
 - **Code & planning:** GitHub Projects (Bit Academy template)
-- **Klantcontact:** e-mail (`<mail klant>`)
+- **Klantcontact:** e-mail (`@robdemmenie-018e0`)
 
 ---
 
@@ -145,7 +145,7 @@ Een user story is *Done* als:
 
 ## 📎 Bijlagen (optioneel)
 
-- Link naar repo: `<url>`  
+- Link naar repo: `https://github.com/Bit-Academy-Students/Cook---Share`  
 - Link naar designs/wireframes: `<url>`  
 - Link naar product backlog: `<url>`  
 - Contactgegevens klant (adres/locatie): `<adres>`
