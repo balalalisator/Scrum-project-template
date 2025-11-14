@@ -54,22 +54,18 @@ Het doel is om een **praktische webapplicatie** te ontwikkelen waarin gebruikers
 > **Minimaal 5 stories.** Zet elke story in de juiste MoSCoW-categorie.
 
 ### ✅ Must have (M)
-- [ ] `<Story M1>`  
-- [ ] `<Story M2>`
+- [ ] `als verkoper wil ik nieuwe recepten aanmaken zodat de klant een recept kan kopen`  
+- [ ] `als klant wil ik door alle gepubliceerde recepten bladeren zodat een recept kan kopen`
 
 ### 🟠 Should have (S)
-- [ ] `<Story S1>`  
-- [ ] `<Story S2>`
+- [ ] `als kok wil ik een nieuw account aanmaken en inlogged zodat het wordt gepubliceerd aan mijn account`  
+- [ ] `als klant wil ik door recepten zoeken zodat ik een recept kan kopen`
 
 ### 🔵 Could have (C)
-- [ ] `<Story C1>`
+- [ ] `als klant wil ik gekochte recepten terugvinden zodat ik het kan herkijken`
 
 ### ⚫ Won’t have (W) (nu niet / later misschien)
-- [ ] `<Story W1>`
-
-> **Voorbeeld (niet automatisch overnemen):**  
-> *Als bezoeker wil ik een **homepagina** zien zodat ik kan leren wat de bakkerij biedt.* (M)  
-> *Als beheerder wil ik **producten kunnen toevoegen/bewerken** zodat de lijst up-to-date blijft.* (S)
+- [ ] `als klant wil ik reacties plaatsen op recepten geven zodat ik mijn mening kan geven`
 
 ---
 
